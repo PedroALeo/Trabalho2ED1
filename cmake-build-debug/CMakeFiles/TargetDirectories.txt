@@ -1,0 +1,3 @@
+/home/pedro/CLionProjects/Tabalho2/cmake-build-debug/CMakeFiles/Tabalho2.dir
+/home/pedro/CLionProjects/Tabalho2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedro/CLionProjects/Tabalho2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
